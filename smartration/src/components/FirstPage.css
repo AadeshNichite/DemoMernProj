@@ -1,0 +1,19 @@
+.MainDiv img
+{
+    width: 200px;
+    height: 200px;
+    
+}
+.text-center
+{
+    color: #37474F;
+}
+.button
+{
+    background-color: #78909C;
+    color: #ECEFF1;
+}
+.data
+{
+    border-color:#78909C ;
+}
